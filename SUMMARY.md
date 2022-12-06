@@ -6,3 +6,12 @@
 
 * [General](group-1/general.md)
 * [ML](group-1/ml.md)
+
+## Cloud
+
+* [Dataflow](cloud/dataflow.md)
+* [BigQuery](cloud/bigquery.md)
+
+## DBMS
+
+* [General](dbms/general.md)
